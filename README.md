@@ -8,3 +8,13 @@ Was ist Git
 -----------
 
 [Git](http://www.git-scm.com/) ist ein **dezentrales** Versionierungssystem.
+
+
+### Git Begriffe
+
+* Repo(sitory)
+  Das Zuhause eines Projektes (Github-Server, eigener Gitserver, vielleicht [Bitbucket](http://www.bitbucket.com))
+* Master
+  Die Hauptentwicklungschiene
+* Origin
+  Die/eine Datenquelle/Original-Source

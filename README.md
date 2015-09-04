@@ -1,7 +1,7 @@
 GIT Workshop 
 ============
 
-Git Workshop auf der SAE am 4. September *2015*.
+Git Workshop auf der SAE Wien am 4. September *2015*.
 
 
 Was ist Git
